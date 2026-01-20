@@ -1,1 +1,1 @@
-Create a docker compose for multiple servers.
+Create a docker compose for multiple services
